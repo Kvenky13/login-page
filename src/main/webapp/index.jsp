@@ -35,7 +35,9 @@ button {
         width: auto;   
         padding: 10px 18px;  
         margin: 10px 5px;  
-        background-color: blue;
+        color: white;
+        background: blue;
+        font-weight: bold;
     }   
         
      
