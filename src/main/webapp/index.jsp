@@ -36,7 +36,7 @@ button {
         padding: 10px 18px;  
         margin: 10px 5px;  
         color: white;
-        background: blue;
+        background: green;
         font-weight: bold;
     }   
         
