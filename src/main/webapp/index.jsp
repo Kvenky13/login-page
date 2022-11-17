@@ -51,9 +51,9 @@ button {
     <center> <h1> Student Login Form </h1> </center>   
     <form>  
         <div class="container">   
-            <label>User Name : </label>   
+            <label>User Name 1 : </label>   
             <input type="text" placeholder="Venkatesh" name="username" required>  
-            <label>Password : </label>   
+            <label>Password 1: </label>   
             <input type="password" placeholder="Enter Password" name="password" required>  
             <button type="submit">Login</button>   
             <input type="checkbox" checked="unchecked"> Remember me   
